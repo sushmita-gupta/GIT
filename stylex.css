@@ -1,0 +1,72 @@
+body
+{
+	background-image:url(book3.jpg);
+
+
+}
+.loginrow
+{
+	margin-top: 250px;
+}
+.logincol
+{
+	margin-left: 500px;
+}
+
+.form_1 input[type="text"]{
+	margin: 20px;
+	border:1px solid black;
+	border-radius: 4px;
+	height: 25px;
+	width: 280px;
+} 
+.form_1 input[type="password"]{
+	margin: 20px;
+	border:1px solid black;
+	border-radius: 4px;
+	height: 25px;
+	width: 280px;
+} 
+.form_1 input[type="submit"]{
+	margin: 20px;
+	margin-left: 150px;
+	border:1px solid black;
+	background-color: blue;
+	border-radius: 4px;
+	height: 25px;
+	color: white;
+	width: 80px;
+} 
+.form_1
+{
+	background-color:black;
+
+}
+/*@media only screen and (max-width: 324px)
+{
+	.form_1 input[type="text"]{
+	margin: 2S0px;
+	margin-top: 100px;
+	margin-left:30px;
+	border:1px solid black;
+	border-radius: 4px;
+	height: 25px;
+} 
+.form_1 input[type="password"]{
+	margin: 20px;
+	margin-left: 30px;
+	border:1px solid black;
+	border-radius: 4px;
+	height: 25px;
+} 
+.form_1 input[type="submit"]{
+	margin: 20px;
+	margin-left: 75px;
+	border:1px solid black;
+	border-radius: 4px;
+	height: 25px;
+	background-color: blue;
+	color: white;
+	width: 50px;
+} 
+}*/
